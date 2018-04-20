@@ -22,6 +22,8 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 1. **Nonlinear Regressors**: Implementation of polynomial regressor and Gaussian process regressor, with k-fold cross validation.
 
+2. **Nonlinear Classifiers (two classes)**: Implementation of logistic classifier (with polynomial basis) and Gaussian naive Bayes classifier, with k-fold cross validation.
+
 **Requirements:**
 
 To run the code, you need to install the C++ library **Eigen**:
